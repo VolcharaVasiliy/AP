@@ -1,0 +1,1 @@
+It's just a small application that is mainly needed to remove the restrictions of the organization on Windows 10. Most of the functions are raw and unfinished, there is no support for English, most likely I will not continue this project.
